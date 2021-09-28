@@ -1,5 +1,5 @@
 # Description for Search Cocktail App
-- Languages used : CSS, Reactjs Framework
+- Languages used : HTML,CSS, JS, Reactjs Framework
 - To create app : use command create-readt-app deevotech-test
 - After code, to build and deploy app : 
     + install gh pages : npm install gh-pages --save-dev
