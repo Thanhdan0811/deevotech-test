@@ -34,8 +34,9 @@
     font-size: inherit;
     font-weight: 500;
     color: inherit;
+    color: #999999;
     
-    border-left: 1px solid #fff;
+    border-left: 1px solid #999;
     background: #403f3f;
     cursor: pointer;
     transition: opacity 0.3s;
@@ -52,6 +53,10 @@
     outline: none;
     font-size: inherit;
     color: #999999;
+}
+.header .header-search input:focus,
+.header .header-search input:-webkit-autofill {
+    background-color: #403f3f !important;
 }
 /* cocktail-list */
 .cocktail-list {
