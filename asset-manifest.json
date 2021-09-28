@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deevotech-test/static/css/main.a39dca70.chunk.css",
+    "main.js": "/deevotech-test/static/js/main.1975044e.chunk.js",
+    "main.js.map": "/deevotech-test/static/js/main.1975044e.chunk.js.map",
+    "runtime-main.js": "/deevotech-test/static/js/runtime-main.ee46f436.js",
+    "runtime-main.js.map": "/deevotech-test/static/js/runtime-main.ee46f436.js.map",
+    "static/js/2.7e0ecff6.chunk.js": "/deevotech-test/static/js/2.7e0ecff6.chunk.js",
+    "static/js/2.7e0ecff6.chunk.js.map": "/deevotech-test/static/js/2.7e0ecff6.chunk.js.map",
+    "static/js/3.236c7b05.chunk.js": "/deevotech-test/static/js/3.236c7b05.chunk.js",
+    "static/js/3.236c7b05.chunk.js.map": "/deevotech-test/static/js/3.236c7b05.chunk.js.map",
+    "index.html": "/deevotech-test/index.html",
+    "static/css/main.a39dca70.chunk.css.map": "/deevotech-test/static/css/main.a39dca70.chunk.css.map",
+    "static/js/2.7e0ecff6.chunk.js.LICENSE.txt": "/deevotech-test/static/js/2.7e0ecff6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee46f436.js",
+    "static/js/2.7e0ecff6.chunk.js",
+    "static/css/main.a39dca70.chunk.css",
+    "static/js/main.1975044e.chunk.js"
+  ]
+}
